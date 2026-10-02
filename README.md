@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Welcome, I'm Dustin</h1>
-<h3 align="center">Building scalable, modern, and user-focused applications for 7+ years</h3>
+<h3 align="center">Building scalable, modern, and user-focused applications for 8+ years</h3>
 
 ---
 
