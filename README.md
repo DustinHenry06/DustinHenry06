@@ -1,15 +1,15 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Amy Zeh-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Dustin Henry-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
 </p>
 
-<h1 align="center">👋 Welcome, I'm Amy</h1>
+<h1 align="center">👋 Welcome, I'm Dustin</h1>
 <h3 align="center">Building scalable, modern, and user-focused applications for 7+ years</h3>
 
 ---
 
 ## 👨‍💻 Who Am I?  
-- 🌐 Full Stack Engineer with **7+ years in end-to-end web development**.  
+- 🌐 Full Stack Engineer with **8+ years in end-to-end web development**.  
 - 💡 Adept at designing **robust, scalable, and user-centric platforms**.  
 - 🔧 Experienced in **cloud, DevOps, and API-first architectures**.  
 - 🤝 Known for **mentoring peers** and **collaborating across product, design, and data teams**.  
